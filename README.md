@@ -6,6 +6,9 @@ A minimal x86 operating system that fits in 8KB. Boots from a CD/ISO image into 
 ![x86](https://img.shields.io/badge/arch-x86-green)
 ![8KB](https://img.shields.io/badge/size-8KB-orange)
 
+![Boot Screen](screenshots/boot.png)
+![Help Command](screenshots/help.png)
+
 ## Features
 
 - Interactive shell with command history (up/down arrows, 8 entries) and backspace support
